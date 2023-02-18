@@ -1,0 +1,2142 @@
+[
+    {
+        "tzLabel": "Africa/Abidjan",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Accra",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Addis_Ababa",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Algiers",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Asmera",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Bamako",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Bangui",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Banjul",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Bissau",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Blantyre",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Brazzaville",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Bujumbura",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Cairo",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Casablanca",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Ceuta",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Conakry",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Dakar",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Dar_es_Salaam",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Djibouti",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Douala",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/El_Aaiun",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Freetown",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Gaborone",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Harare",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Johannesburg",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Juba",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Kampala",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Khartoum",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Kigali",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Kinshasa",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Lagos",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Libreville",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Lome",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Luanda",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Lubumbashi",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Lusaka",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Malabo",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Maputo",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Maseru",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Mbabane",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Mogadishu",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Monrovia",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Nairobi",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Africa/Ndjamena",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Niamey",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Nouakchott",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Ouagadougou",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Africa/Porto-Novo",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Sao_Tome",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Tripoli",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Africa/Tunis",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Africa/Windhoek",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "America/Adak",
+        "offsetInMinutes": 600,
+        "utcText": "GTM -10:00"
+    },
+    {
+        "tzLabel": "America/Anchorage",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/Anguilla",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Antigua",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Araguaina",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/La_Rioja",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/Rio_Gallegos",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/Salta",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/San_Juan",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/San_Luis",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/Tucuman",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Argentina/Ushuaia",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Aruba",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Asuncion",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Bahia",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Bahia_Banderas",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Barbados",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Belem",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Belize",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Blanc-Sablon",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Boa_Vista",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Bogota",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Boise",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Buenos_Aires",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Cambridge_Bay",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Campo_Grande",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Cancun",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Caracas",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Catamarca",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Cayenne",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Cayman",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Chicago",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Chihuahua",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Coral_Harbour",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Cordoba",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Costa_Rica",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Creston",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Cuiaba",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Curacao",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Danmarkshavn",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "America/Dawson",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Dawson_Creek",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Denver",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Detroit",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Dominica",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Edmonton",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Eirunepe",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/El_Salvador",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Fort_Nelson",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Fortaleza",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Glace_Bay",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Godthab",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Goose_Bay",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Grand_Turk",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Grenada",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Guadeloupe",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Guatemala",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Guayaquil",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Guyana",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Halifax",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Havana",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Hermosillo",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Knox",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Marengo",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Petersburg",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Tell_City",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Vevay",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Vincennes",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Indiana/Winamac",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Indianapolis",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Inuvik",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Iqaluit",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Jamaica",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Jujuy",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Juneau",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/Kentucky/Monticello",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Kralendijk",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/La_Paz",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Lima",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Los_Angeles",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Louisville",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Lower_Princes",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Maceio",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Managua",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Manaus",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Marigot",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Martinique",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Matamoros",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Mazatlan",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Mendoza",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Menominee",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Merida",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Metlakatla",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/Mexico_City",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Miquelon",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Moncton",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Monterrey",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Montevideo",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Montreal",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Montserrat",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Nassau",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/New_York",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Nipigon",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Nome",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/Noronha",
+        "offsetInMinutes": 120,
+        "utcText": "GTM -2:00"
+    },
+    {
+        "tzLabel": "America/North_Dakota/Beulah",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/North_Dakota/Center",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/North_Dakota/New_Salem",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Ojinaga",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Panama",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Pangnirtung",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Paramaribo",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Phoenix",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "America/Port-au-Prince",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Port_of_Spain",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Porto_Velho",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Puerto_Rico",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Punta_Arenas",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Rainy_River",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Rankin_Inlet",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Recife",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Regina",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Resolute",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Rio_Branco",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Santa_Isabel",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Santarem",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Santiago",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Santo_Domingo",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Sao_Paulo",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "America/Scoresbysund",
+        "offsetInMinutes": 60,
+        "utcText": "GTM -1:00"
+    },
+    {
+        "tzLabel": "America/Sitka",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/St_Barthelemy",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/St_Johns",
+        "offsetInMinutes": 210,
+        "utcText": "GTM -3:30"
+    },
+    {
+        "tzLabel": "America/St_Kitts",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/St_Lucia",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/St_Thomas",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/St_Vincent",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Swift_Current",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Tegucigalpa",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Thule",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Thunder_Bay",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Tijuana",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Toronto",
+        "offsetInMinutes": 300,
+        "utcText": "GTM -5:00"
+    },
+    {
+        "tzLabel": "America/Tortola",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "America/Vancouver",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Whitehorse",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "America/Winnipeg",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "America/Yakutat",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "America/Yellowknife",
+        "offsetInMinutes": 420,
+        "utcText": "GTM -7:00"
+    },
+    {
+        "tzLabel": "Antarctica/Casey",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Antarctica/Davis",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Antarctica/DumontDUrville",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Antarctica/Macquarie",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Antarctica/Mawson",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Antarctica/McMurdo",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Antarctica/Palmer",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "Antarctica/Rothera",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "Antarctica/Syowa",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Antarctica/Troll",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Antarctica/Vostok",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Arctic/Longyearbyen",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Asia/Aden",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Almaty",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Amman",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Anadyr",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Asia/Aqtau",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Aqtobe",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Ashgabat",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Atyrau",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Baghdad",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Bahrain",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Baku",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Asia/Bangkok",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Barnaul",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Beirut",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Bishkek",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Brunei",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Calcutta",
+        "offsetInMinutes": -330,
+        "utcText": "GTM +5:30"
+    },
+    {
+        "tzLabel": "Asia/Chita",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Choibalsan",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Colombo",
+        "offsetInMinutes": -330,
+        "utcText": "GTM +5:30"
+    },
+    {
+        "tzLabel": "Asia/Damascus",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Dhaka",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Dili",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Dubai",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Asia/Dushanbe",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Famagusta",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Gaza",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Hebron",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Hong_Kong",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Hovd",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Irkutsk",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Jakarta",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Jayapura",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Jerusalem",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Kabul",
+        "offsetInMinutes": -270,
+        "utcText": "GTM +4:30"
+    },
+    {
+        "tzLabel": "Asia/Kamchatka",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Asia/Karachi",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Katmandu",
+        "offsetInMinutes": -345,
+        "utcText": "GTM +5:45"
+    },
+    {
+        "tzLabel": "Asia/Khandyga",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Krasnoyarsk",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Kuala_Lumpur",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Kuching",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Kuwait",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Macau",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Magadan",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Asia/Makassar",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Manila",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Muscat",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Asia/Nicosia",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Asia/Novokuznetsk",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Novosibirsk",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Omsk",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Oral",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Phnom_Penh",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Pontianak",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Pyongyang",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Qatar",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Qostanay",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Qyzylorda",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Rangoon",
+        "offsetInMinutes": -390,
+        "utcText": "GTM +6:30"
+    },
+    {
+        "tzLabel": "Asia/Riyadh",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Asia/Saigon",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Sakhalin",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Asia/Samarkand",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Seoul",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Shanghai",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Singapore",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Srednekolymsk",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Asia/Taipei",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Tashkent",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Tbilisi",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Asia/Tehran",
+        "offsetInMinutes": -210,
+        "utcText": "GTM +3:30"
+    },
+    {
+        "tzLabel": "Asia/Thimphu",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Tokyo",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Tomsk",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Ulaanbaatar",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Asia/Urumqi",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Asia/Ust-Nera",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Asia/Vientiane",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Asia/Vladivostok",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Asia/Yakutsk",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Asia/Yekaterinburg",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Asia/Yerevan",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Atlantic/Azores",
+        "offsetInMinutes": 60,
+        "utcText": "GTM -1:00"
+    },
+    {
+        "tzLabel": "Atlantic/Bermuda",
+        "offsetInMinutes": 240,
+        "utcText": "GTM -4:00"
+    },
+    {
+        "tzLabel": "Atlantic/Canary",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Atlantic/Cape_Verde",
+        "offsetInMinutes": 60,
+        "utcText": "GTM -1:00"
+    },
+    {
+        "tzLabel": "Atlantic/Faeroe",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Atlantic/Madeira",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Atlantic/Reykjavik",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Atlantic/South_Georgia",
+        "offsetInMinutes": 120,
+        "utcText": "GTM -2:00"
+    },
+    {
+        "tzLabel": "Atlantic/St_Helena",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Atlantic/Stanley",
+        "offsetInMinutes": 180,
+        "utcText": "GTM -3:00"
+    },
+    {
+        "tzLabel": "Australia/Adelaide",
+        "offsetInMinutes": -570,
+        "utcText": "GTM +9:30"
+    },
+    {
+        "tzLabel": "Australia/Brisbane",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Australia/Broken_Hill",
+        "offsetInMinutes": -570,
+        "utcText": "GTM +9:30"
+    },
+    {
+        "tzLabel": "Australia/Currie",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Australia/Darwin",
+        "offsetInMinutes": -570,
+        "utcText": "GTM +9:30"
+    },
+    {
+        "tzLabel": "Australia/Eucla",
+        "offsetInMinutes": -525,
+        "utcText": "GTM +8:45"
+    },
+    {
+        "tzLabel": "Australia/Hobart",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Australia/Lindeman",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Australia/Lord_Howe",
+        "offsetInMinutes": -630,
+        "utcText": "GTM +10:30"
+    },
+    {
+        "tzLabel": "Australia/Melbourne",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Australia/Perth",
+        "offsetInMinutes": -480,
+        "utcText": "GTM +8:00"
+    },
+    {
+        "tzLabel": "Australia/Sydney",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Europe/Amsterdam",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Andorra",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Astrakhan",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Europe/Athens",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Belgrade",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Berlin",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Bratislava",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Brussels",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Bucharest",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Budapest",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Busingen",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Chisinau",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Copenhagen",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Dublin",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Gibraltar",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Guernsey",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Europe/Helsinki",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Isle_of_Man",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Europe/Istanbul",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Jersey",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Europe/Kaliningrad",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Kiev",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Kirov",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Lisbon",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Europe/Ljubljana",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/London",
+        "offsetInMinutes": 0,
+        "utcText": "GTM"
+    },
+    {
+        "tzLabel": "Europe/Luxembourg",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Madrid",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Malta",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Mariehamn",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Minsk",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Monaco",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Moscow",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Oslo",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Paris",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Podgorica",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Prague",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Riga",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Rome",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Samara",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Europe/San_Marino",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Sarajevo",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Saratov",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Europe/Simferopol",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Skopje",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Sofia",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Stockholm",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Tallinn",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Tirane",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Ulyanovsk",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Europe/Uzhgorod",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Vaduz",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Vatican",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Vienna",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Vilnius",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Volgograd",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Europe/Warsaw",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Zagreb",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Europe/Zaporozhye",
+        "offsetInMinutes": -120,
+        "utcText": "GTM +2:00"
+    },
+    {
+        "tzLabel": "Europe/Zurich",
+        "offsetInMinutes": -60,
+        "utcText": "GTM +1:00"
+    },
+    {
+        "tzLabel": "Indian/Antananarivo",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Indian/Chagos",
+        "offsetInMinutes": -360,
+        "utcText": "GTM +6:00"
+    },
+    {
+        "tzLabel": "Indian/Christmas",
+        "offsetInMinutes": -420,
+        "utcText": "GTM +7:00"
+    },
+    {
+        "tzLabel": "Indian/Cocos",
+        "offsetInMinutes": -390,
+        "utcText": "GTM +6:30"
+    },
+    {
+        "tzLabel": "Indian/Comoro",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Indian/Kerguelen",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Indian/Mahe",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Indian/Maldives",
+        "offsetInMinutes": -300,
+        "utcText": "GTM +5:00"
+    },
+    {
+        "tzLabel": "Indian/Mauritius",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Indian/Mayotte",
+        "offsetInMinutes": -180,
+        "utcText": "GTM +3:00"
+    },
+    {
+        "tzLabel": "Indian/Reunion",
+        "offsetInMinutes": -240,
+        "utcText": "GTM +4:00"
+    },
+    {
+        "tzLabel": "Pacific/Apia",
+        "offsetInMinutes": -780,
+        "utcText": "GTM +13:00"
+    },
+    {
+        "tzLabel": "Pacific/Auckland",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Bougainville",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Chatham",
+        "offsetInMinutes": -765,
+        "utcText": "GTM +12:45"
+    },
+    {
+        "tzLabel": "Pacific/Easter",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "Pacific/Efate",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Enderbury",
+        "offsetInMinutes": -780,
+        "utcText": "GTM +13:00"
+    },
+    {
+        "tzLabel": "Pacific/Fakaofo",
+        "offsetInMinutes": -780,
+        "utcText": "GTM +13:00"
+    },
+    {
+        "tzLabel": "Pacific/Fiji",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Funafuti",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Galapagos",
+        "offsetInMinutes": 360,
+        "utcText": "GTM -6:00"
+    },
+    {
+        "tzLabel": "Pacific/Gambier",
+        "offsetInMinutes": 540,
+        "utcText": "GTM -9:00"
+    },
+    {
+        "tzLabel": "Pacific/Guadalcanal",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Guam",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Pacific/Honolulu",
+        "offsetInMinutes": 600,
+        "utcText": "GTM -10:00"
+    },
+    {
+        "tzLabel": "Pacific/Johnston",
+        "offsetInMinutes": 600,
+        "utcText": "GTM -10:00"
+    },
+    {
+        "tzLabel": "Pacific/Kiritimati",
+        "offsetInMinutes": -840,
+        "utcText": "GTM +14:00"
+    },
+    {
+        "tzLabel": "Pacific/Kosrae",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Kwajalein",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Majuro",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Marquesas",
+        "offsetInMinutes": 570,
+        "utcText": "GTM -9:30"
+    },
+    {
+        "tzLabel": "Pacific/Midway",
+        "offsetInMinutes": 660,
+        "utcText": "GTM -11:00"
+    },
+    {
+        "tzLabel": "Pacific/Nauru",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Niue",
+        "offsetInMinutes": 660,
+        "utcText": "GTM -11:00"
+    },
+    {
+        "tzLabel": "Pacific/Norfolk",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Noumea",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Pago_Pago",
+        "offsetInMinutes": 660,
+        "utcText": "GTM -11:00"
+    },
+    {
+        "tzLabel": "Pacific/Palau",
+        "offsetInMinutes": -540,
+        "utcText": "GTM +9:00"
+    },
+    {
+        "tzLabel": "Pacific/Pitcairn",
+        "offsetInMinutes": 480,
+        "utcText": "GTM -8:00"
+    },
+    {
+        "tzLabel": "Pacific/Ponape",
+        "offsetInMinutes": -660,
+        "utcText": "GTM +11:00"
+    },
+    {
+        "tzLabel": "Pacific/Port_Moresby",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Pacific/Rarotonga",
+        "offsetInMinutes": 600,
+        "utcText": "GTM -10:00"
+    },
+    {
+        "tzLabel": "Pacific/Saipan",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Pacific/Tahiti",
+        "offsetInMinutes": 600,
+        "utcText": "GTM -10:00"
+    },
+    {
+        "tzLabel": "Pacific/Tarawa",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Tongatapu",
+        "offsetInMinutes": -780,
+        "utcText": "GTM +13:00"
+    },
+    {
+        "tzLabel": "Pacific/Truk",
+        "offsetInMinutes": -600,
+        "utcText": "GTM +10:00"
+    },
+    {
+        "tzLabel": "Pacific/Wake",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    },
+    {
+        "tzLabel": "Pacific/Wallis",
+        "offsetInMinutes": -720,
+        "utcText": "GTM +12:00"
+    }
+]
